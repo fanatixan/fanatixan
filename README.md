@@ -1,20 +1,17 @@
 ## Hi, I'm Attila
 
-CTO of [Craftosphere](https://craftosphere.com) · Partner at [BriX Consulting](https://brix.consulting) · Part of [nWave](https://nwave.ai) · Writing [Code That Makes Sense](https://codethatmakessense.substack.com)
+Founder & CEO of [Craftosphere](https://craftosphere.com) · Partner at [BriX Consulting](https://brix.consulting) · Part of [nWave](https://nwave.ai) · Writing [Code That Makes Sense](https://url.fejer.io/blog)
 
 I'm a software crafter with 15+ years in the industry. I started programming at 12 because I loved making things - I still do.
 
-I coach engineering teams in software craftsmanship, Extreme Programming, TDD, and clean architecture. I've impacted 10,000+ developers through coaching across organizations from startups to Fortune 100.
+I coach engineering teams in software craftsmanship, Extreme Programming, TDD, and clean architecture. I have coached 400+ engineering teams since 2013, at organizations from startups to Fortune 100.
 
-Right now I'm focused on:
-- 🔧 Building tools and frameworks at Craftosphere
-- 🌊 Building [nWave](https://nwave.ai) - an AI-augmented framework that enforces TDD, peer review, and software craftsmanship
-- ✍️ Writing about engineering judgment in the AI era
+- 🔧 Building FlagZen, compile-time feature flags for Java 17+
 - 🥋 Running the Software Craftsmanship Dojo with BriX Consulting
 
 ### Links
 
-- 🌊 [nWave](https://nwave.ai) - AI-augmented development framework
-- 📬 [Code That Makes Sense](https://codethatmakessense.substack.com) - my newsletter
+- 🌊 [nWave](https://nwave.ai) - the open-source AI-assisted development framework that enforces TDD and peer review
+- 📬 [Code That Makes Sense](https://url.fejer.io/blog) - my newsletter
 - 🌐 [fejer.io](https://fejer.io) - portfolio
 - 💼 [LinkedIn](https://linkedin.com/in/attilafejer)
