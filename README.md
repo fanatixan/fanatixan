@@ -6,8 +6,8 @@ I'm a software crafter with 15+ years in the industry. I started programming at 
 
 I coach engineering teams in software craftsmanship, Extreme Programming, TDD, and clean architecture. I have coached 400+ engineering teams since 2013, at organizations from startups to Fortune 100.
 
-- 🔧 Building FlagZen, compile-time feature flags for Java 17+
-- 🥋 Running the Software Craftsmanship Dojo with BriX Consulting
+- 🔧 Building [FlagZen](https://flagzen.com), compile-time feature flags for Java 17+
+- 🥋 Running the [Software Craftsmanship Dojo](https://swcraftsmanshipdojo.com) with BriX Consulting
 
 ### Links
 
